@@ -4,7 +4,7 @@
 
 int main() {
     image img = get_image();
-    std::cout << "Url: " << img.url << "\n" << "Artist: " << img.artist;
+    std::cout << "Url: " << img.url << "\n" << "Artist: " << img.artist << std::endl;
 
     std::cout << "Made with the catboys.com API.\n";
 return 0;    
