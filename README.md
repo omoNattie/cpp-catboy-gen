@@ -16,7 +16,7 @@ or
 ```mkdir build```
 ```cmake . -B build/```
 ```cd build && make && cd ..```
-```./build/cat````
+```./build/cat```
 
 
 under the MIT license
